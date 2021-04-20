@@ -29,5 +29,5 @@ I also have successful experience working on team projects both as a leader and 
 ## 📊
 My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=realthomasmiles&hide_title=true&hide_border=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true)  
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=realthomasmiles&hide_title=true&hide_border=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)  
 ![GitHubLangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=realthomasmiles&layout=compact&langs_count=10)
