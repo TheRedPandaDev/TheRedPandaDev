@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ## 😃
-My name is *Dmitry Milya*, and *Thomas Miles* is the ***nom de plume*** that I use for some of my projects. I'm passionate about web development, and I aspire to become a professional back-end developer to work on big projects.
+My name is *Dmitry Milya*, and *Thomas Miles* is the ***nom de plume*** that I use for some of my projects.  
+I'm passionate about web development, and I aspire to become a professional back-end developer to work on big projects.
 
 ## 👨‍💻
 I am a Software Engineering student at [**Peter the Great St. Petersburg Polytechnic University**](https://english.spbstu.ru/), and I also study the development of high-load applications at [**Technopolis**](https://polis.mail.ru/) - an educational project by Mail.ru Group, which implements additional education for students of my university.  
