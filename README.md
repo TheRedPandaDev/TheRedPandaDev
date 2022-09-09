@@ -5,6 +5,8 @@ My name is *Dmitry Milya*, and *Thomas Miles* is the ***nom de plume*** that I u
 I'm passionate about web development, and I do my best being a back-end developer.  
 I try to keep my **README**s informative and interesting, so you can check out some of my repos if you want!
 
+![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Linkedin-icon.png) LinkedIn - https://www.linkedin.com/in/dmitry-milya-380420193/
+
 ## 👨‍💻
 I am a backend Java Spring developer at [**AT-Consulting**](https://www.at-consulting.ru/) in Saint Petersburg, Russia. I am also a senior-year Software Engineering student at [**Peter the Great St. Petersburg Polytechnic University**](https://english.spbstu.ru/), and I studied the development of high-load applications at [**Technopolis**](https://polis.mail.ru/) - an educational project by Mail.ru Group, which implements additional education for students of my university.  
 
