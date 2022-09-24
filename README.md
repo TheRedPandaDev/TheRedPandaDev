@@ -7,6 +7,8 @@ I try to keep my **README**s informative and interesting, so you can check out s
 
 ![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Linkedin-icon.png) LinkedIn - https://www.linkedin.com/in/dmitry-milya-380420193/
 
+![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram - https://tuomasmiles.t.me/
+
 Also, check out my cool ![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram bot - https://real_parrot_bot.t.me/
 
 ## 👨‍💻
