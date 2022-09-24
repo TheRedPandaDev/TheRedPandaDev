@@ -7,6 +7,8 @@ I try to keep my **README**s informative and interesting, so you can check out s
 
 ![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Linkedin-icon.png) LinkedIn - https://www.linkedin.com/in/dmitry-milya-380420193/
 
+Also, check out my new cool ![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram bot - https://real_parrot_bot.t.me/
+
 ## 👨‍💻
 I am a backend Java Spring developer at [**AT-Consulting**](https://www.at-consulting.ru/) in Saint Petersburg, Russia. Not long ago I was a Software Engineering student at [**Peter the Great St. Petersburg Polytechnic University**](https://english.spbstu.ru/), and I studied the development of high-load applications at [**Technopolis**](https://polis.mail.ru/) - an educational project by Mail.ru Group, which implements additional education for students of my alma mater.  
 
