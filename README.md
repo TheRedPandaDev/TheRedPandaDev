@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 😃
-My name is *Dmitry [Milya](## "Romanian for 'Mercy' =)")*, and *Thomas (Tuomas) Miles* is the ***nom de plume*** that I use for some of my projects.  
+My name is *Dmitry [Milya](https://forebears.io/surnames/milea)*, and *Thomas (Tuomas) Miles* is the ***nom de plume*** that I use for some of my projects.  
 I'm passionate about web development and [red pandas](https://redpandanetwork.org).  
 I try to keep my **README**s informative and interesting, so you can check out some of my repos if you want!
 
