@@ -7,7 +7,7 @@ I try to keep my **README**s informative and interesting, so you can check out s
 
 ![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Linkedin-icon.png) LinkedIn - https://www.linkedin.com/in/dmitry-milya-380420193/
 
-![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram - https://tuomasmiles.t.me/
+![Telegram Logo](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram - https://red_panda_dev.t.me/
 
 ## 👨‍💻
 I am a senior Java developer currently employed at [**Raiffeisen Bank Russia**](https://raiffeisen.ru/). I graduated with a Bachelor's degree in Computer Science from [**Peter the Great St. Petersburg Polytechnic University**](https://english.spbstu.ru/) in 2022, and I studied development of high-load Java applications at [**Technopolis**](https://polis.mail.ru/) in 2020.  
